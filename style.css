@@ -48,7 +48,8 @@ table {
   color: white;
   font-size: 35px;
   height: 42px;
-  padding-left: 25px;
+  padding-left: 2px;
+  padding-right: 2px;
   position: fixed;
   top: 18px;
   vertical-align: center;
@@ -89,7 +90,7 @@ a img {
 .top a {
   color: white;
   font-size: 24px;
-  margin: 10px;
+  margin-left: -1px;
   padding: 10px 5px;
   text-decoration: none;
 }
